@@ -1,0 +1,29 @@
+{
+    "experiment": "04B",
+    "description": "Clean VQC with standardized PCA features",
+    "seed": 42,
+    "num_qubits": 4,
+    "feature_dimension": 4,
+    "feature_map": {
+        "type": "ZZFeatureMap",
+        "reps": 2
+    },
+    "ansatz": {
+        "type": "RealAmplitudes",
+        "reps": 2,
+        "entanglement": "linear"
+    },
+    "gradient": "default Qiskit gradient / parameter-shift",
+    "optimizer": "Adam",
+    "learning_rate": 0.01,
+    "batch_size": 32,
+    "epochs": 30,
+    "scaling": "StandardScaler",
+    "test_metrics": {
+        "loss": 0.6773861410330694,
+        "accuracy": 0.5805142083897158,
+        "precision": 0.587285044293903,
+        "recall": 0.7155555555555555,
+        "f1": 0.6451058958214081
+    }
+}

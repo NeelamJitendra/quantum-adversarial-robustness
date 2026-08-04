@@ -1,0 +1,29 @@
+# Research Notes
+
+## Objective
+
+Prepare a binary classification dataset suitable for training a
+4-qubit Variational Quantum Classifier.
+
+## Dataset
+
+MNIST
+
+Selected classes:
+- 0
+- 1
+
+## Preprocessing
+
+- Min-Max normalization
+- Stratified train-test split
+- PCA (4 principal components)
+
+## Reason for PCA
+
+Each principal component is mapped to one qubit, allowing efficient
+quantum feature encoding while reducing computational complexity.
+
+## Output
+
+Saved processed dataset for all subsequent experiments.

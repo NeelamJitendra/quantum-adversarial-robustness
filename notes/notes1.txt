@@ -1,0 +1,28 @@
+Notebook 01 – Data Preprocessing
+
+We'll use MNIST because:
+
+it is standard in QML research,
+computationally manageable,
+sufficient for demonstrating adversarial robustness.
+
+PCA
+
+This is very important.
+
+Quantum computers cannot efficiently process 784 features with a small number of qubits.
+
+For our initial VQC, we'll reduce the dimensionality to 4 principal components, allowing us to encode the data into a 4-qubit circuit.'
+
+Why PCA?
+
+A common question in your thesis defense will be:
+
+"Why did you reduce MNIST to only four features?"
+
+Your answer should be:
+
+A VQC with one feature per qubit requires one qubit for each encoded feature.
+Current NISQ devices have limited reliable qubit counts and circuit depth.
+Reducing the data to four principal components enables efficient simulation while preserving the most significant variance in the dataset.
+This approach is consistent with many published QML studies that use dimensionality reduction before quantum feature encoding.

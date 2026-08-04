@@ -1,0 +1,36 @@
+Notebook 02 – Classical Baseline
+
+Purpose
+
+Develop a classical baseline for comparison against VQC.
+
+Model
+
+Simple feedforward neural network.
+
+Input Features
+
+4 PCA components.
+
+Metrics
+
+Accuracy
+
+Precision
+
+Recall
+
+F1
+
+Observations
+
+(Add observations after training)
+Why This Matters
+
+When your examiner asks:
+
+"Why did you build a classical model?"
+
+Your answer is:
+
+"The classical neural network serves as the baseline for evaluating whether the hybrid quantum-classical model offers any advantage or disadvantage under NISQ noise. Without a classical baseline, it would not be possible to determine whether observed robustness characteristics are unique to the quantum model."

@@ -1,0 +1,24 @@
+{
+  "experiment": "06A_NISQ_noise",
+  "base_model": "04B",
+  "seed": 42,
+  "num_qubits": 4,
+  "dataset": "Binary MNIST 0 vs 1",
+  "input_features": 4,
+  "preprocessing": "PCA + StandardScaler",
+  "shots": 1024,
+  "noise_models": {
+    "depolarizing": {
+      "single_qubit_error": 0.001,
+      "two_qubit_error": 0.01
+    },
+    "readout": {
+      "measurement_error": 0.02
+    },
+    "combined": {
+      "single_qubit_error": 0.001,
+      "two_qubit_error": 0.01,
+      "measurement_error": 0.02
+    }
+  }
+}
