@@ -17,18 +17,25 @@ class HybridClassifier(nn.Module):
     ----------
     quantum_model : nn.Module
         Quantum neural network wrapped as a PyTorch module.
+
+    quantum_output_dim : int
+        Width of quantum_model's output (1 for the legacy single-Z
+        observable, num_qubits for the multi-Z observable -- see
+        src/models/quantum_model.py:get_output_dim()). Defaults to 1
+        to preserve the original single-output behaviour.
     """
 
     def __init__(
         self,
         quantum_model,
+        quantum_output_dim: int = 1,
     ):
         super().__init__()
 
         self.quantum = quantum_model
 
         self.classifier = nn.Linear(
-            in_features=1,
+            in_features=quantum_output_dim,
             out_features=1,
         )
 
