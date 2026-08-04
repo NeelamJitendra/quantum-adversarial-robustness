@@ -1,0 +1,28 @@
+{
+  "seed": 42,
+  "circuit": {
+    "num_qubits": 4,
+    "feature_reps": 2,
+    "ansatz_reps": 2,
+    "observable_mode": "multi_z"
+  },
+  "train": {
+    "epochs": 30,
+    "batch_size": 32,
+    "lr": 0.01,
+    "optimizer": "adam"
+  },
+  "noise": {
+    "noise_type": "none",
+    "level": "L0",
+    "shots": 1024
+  },
+  "attack": {
+    "method": "fgsm",
+    "epsilon": 0.0,
+    "norm": "inf"
+  },
+  "mitigation": {
+    "method": null
+  }
+}
