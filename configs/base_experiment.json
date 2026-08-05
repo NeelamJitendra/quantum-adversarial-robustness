@@ -3,13 +3,13 @@
   "circuit": {
     "num_qubits": 4,
     "feature_reps": 2,
-    "ansatz_reps": 2,
-    "observable_mode": "multi_z"
+    "ansatz_reps": 4,
+    "observable_mode": "single_z"
   },
   "train": {
-    "epochs": 30,
+    "epochs": 20,
     "batch_size": 32,
-    "lr": 0.01,
+    "lr": 0.05,
     "optimizer": "adam"
   },
   "noise": {
