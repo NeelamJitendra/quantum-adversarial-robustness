@@ -9,7 +9,7 @@ subset for many epochs at a higher learning rate.
     confirmed healthy (steps 1-2) -> a real expressivity/observable
     bottleneck -> proceed to the observable ablation (step 5).
 
-See notebook/04D_phase0_diagnostics.ipynb.
+See notebook/04_phase0_diagnostics.ipynb.
 """
 
 from typing import List, Tuple

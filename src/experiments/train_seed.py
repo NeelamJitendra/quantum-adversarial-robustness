@@ -2,7 +2,7 @@
 Train one VQC for a given seed, using a validated ExperimentConfig
 (see src/config.py and configs/base_experiment.json -- defaults are
 the Phase 0-accepted single_z/ansatz_reps=4/lr=0.05 configuration,
-see notebook/04D_phase0_diagnostics.ipynb).
+see notebook/04_phase0_diagnostics.ipynb).
 
 Trains once, noiselessly (per the thesis architecture: noise and
 adversarial attacks are applied at inference time on this checkpoint,

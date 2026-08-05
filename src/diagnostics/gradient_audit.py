@@ -3,7 +3,7 @@ Phase 0 diagnostic steps 1-2: confirm gradients actually flow to
 every trainable parameter, and that the optimizer is tracking all of
 them, before assuming a training-dynamics or expressivity problem.
 
-See notebook/04D_phase0_diagnostics.ipynb.
+See notebook/04_phase0_diagnostics.ipynb.
 """
 
 from typing import List

@@ -6,7 +6,7 @@ typically launched as separate parallel OS processes for wall-clock
 efficiency (parallel scaling was empirically measured before the
 first real sweep: ~2.4x net throughput at 4 concurrent processes,
 ~3.3x at 8, on a 16-logical-core machine -- see
-notebook/04D_phase0_diagnostics.ipynb / the thesis architecture log
+notebook/04_phase0_diagnostics.ipynb / the thesis architecture log
 for the calibration). This script does not itself train; it just
 collects results/models/vqc_seed{N}_metadata.json for each requested
 seed into results/models/vqc_all_seeds_summary.csv.

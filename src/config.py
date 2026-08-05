@@ -21,7 +21,7 @@ from typing import Optional, Union
 class CircuitConfig:
     num_qubits: int = 4
     feature_reps: int = 2
-    # Phase 0 diagnostics (notebook/04D_phase0_diagnostics.ipynb) found
+    # Phase 0 diagnostics (notebook/04_phase0_diagnostics.ipynb) found
     # accuracy plateaus regardless of learning rate, batching, or
     # observable width (single_z vs multi_z performed the same), but
     # improves with ansatz depth: reps=2 plateaus at ~58%, reps=4 at

@@ -5,7 +5,7 @@ isn't learning" from "only the classical head is learning" (both can
 produce a loss plateau near ln(2), but only one implicates the
 quantum circuit itself).
 
-See notebook/04D_phase0_diagnostics.ipynb.
+See notebook/04_phase0_diagnostics.ipynb.
 """
 
 from typing import Dict

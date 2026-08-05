@@ -38,7 +38,7 @@ DEFAULT_SEED = 42
 # Function-level defaults below preserve this behaviour so existing
 # checkpoints/notebooks (e.g. 04C) keep working unchanged. New code
 # (04D onward) should pass observable_mode="multi_z" explicitly -- see
-# notebook/04D_phase0_diagnostics.ipynb for why.
+# notebook/04_phase0_diagnostics.ipynb for why.
 DEFAULT_OBSERVABLE_MODE = "single_z"
 
 
