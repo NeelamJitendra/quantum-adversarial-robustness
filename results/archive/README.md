@@ -18,3 +18,10 @@ for provenance only, not as inputs to any notebook or script.
   only thing that used them) was archived -- see
   `notebook/archive/README.md`. Superseded by the
   `single_z`/`ansatz_reps=4` sweep in `results/models/vqc_seed*.pt`.
+- `clean_predictions_04B_seed42.npy`, `clean_reference_04B_seed42.json`,
+  `fgsm_04B_seed42.{csv,json}`, `fgsm_*.png` (5 plots): FGSM results
+  from the same pre-Phase-0-fix `vqc_04B_scaled_seed42.pt` checkpoint,
+  produced by the archived `05_fgsm_clean_vqc.ipynb`. Moved from the
+  now-empty `results/adversarial/`. Superseded once `07_fgsm_attack`
+  (ART-based, per the thesis proposal) runs against a current
+  checkpoint.

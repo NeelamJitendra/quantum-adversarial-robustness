@@ -27,7 +27,13 @@ current pipeline.
   Methodologically fine, but the thesis proposal specifies ART
   specifically. Its plotting/reporting code is reused in the new
   `07_fgsm_attack` / `10_statistical_analysis` notebooks. Superseded
-  for the attack implementation itself.
+  for the attack implementation itself. Its result artifacts (all of
+  `results/adversarial/`: `clean_predictions_04B_seed42.npy`,
+  `clean_reference_04B_seed42.json`, `fgsm_04B_seed42.{csv,json}`, and
+  5 `fgsm_*.png` plots) were computed against the same pre-Phase-0-fix
+  `vqc_04B_scaled_seed42.pt` checkpoint as `04C` above, so they moved
+  to `results/archive/` too -- `results/adversarial/` no longer
+  exists (empty after the move).
 - `06A_build_noise_model.ipynb`: real depolarizing/readout NoiseModel
   construction and shot-based noisy inference, correct Aer API usage,
   but has an unresolved qubit-indexing bug (two cells disagree on
