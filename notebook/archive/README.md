@@ -14,7 +14,10 @@ the active pipeline.
 - `classical_baseline_10class_broken.ipynb` (was `02_classical_baseline.ipynb`):
   trained on the wrong dataset (full 10-class raw-pixel MNIST instead
   of the binary 0-vs-1 / 4-PCA-feature task) and gets 12% accuracy.
-  Superseded by `03_classical_baseline`.
+  Superseded by `03_classical_baseline`. Referenced by path from
+  `thesis/thesis_draft.md` (Section 3.3's backstory on why the
+  baseline was rebuilt); that reference was updated to match this
+  rename.
 - `vqc_raw_features_prephase0fix.ipynb`, `vqc_scaled_features_prephase0fix.ipynb`
   (were `04A_clean_vqc_raw.ipynb`, `04B_clean_vqc_scaled.ipynb`): the
   pre-Phase-0-fix VQC training notebooks (~58% accuracy, see
@@ -31,11 +34,9 @@ the active pipeline.
   `04C_quantum_output_analysis_seed42.json`) moved to
   `results/archive/` alongside it. The analysis approach itself is
   reusable -- worth rebuilding against a post-sweep checkpoint later,
-  not yet superseded by a numbered notebook. Note: this file is
-  referenced by path from `thesis/thesis_draft.md` (the paired-Cohen's-d
-  convention citation) -- that reference was NOT auto-updated when this
-  file was renamed, since `thesis/` is actively being written in a
-  separate session; update it there if needed.
+  not yet superseded by a numbered notebook. Referenced by path from
+  `thesis/thesis_draft.md` (the paired-Cohen's-d convention citation);
+  that reference was updated to match this rename.
 - `fgsm_handrolled_prephase0fix.ipynb` (was `05_fgsm_clean_vqc.ipynb`):
   working hand-rolled FGSM (not ART). Methodologically fine, but the
   thesis proposal specifies ART specifically. Its plotting/reporting
