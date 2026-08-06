@@ -1,0 +1,32 @@
+{
+  "seed": 47,
+  "circuit": {
+    "num_qubits": 4,
+    "feature_reps": 2,
+    "ansatz_reps": 4,
+    "observable_mode": "single_z"
+  },
+  "train": {
+    "epochs": 10,
+    "batch_size": 32,
+    "lr": 0.05,
+    "optimizer": "adam"
+  },
+  "best_val_loss": 0.6334604024887085,
+  "test_metrics": {
+    "accuracy": 0.628213802435724,
+    "precision": 0.6252631578947369,
+    "recall": 0.7542857142857143,
+    "f1": 0.6837410071942446,
+    "confusion_matrix": [
+      [
+        669,
+        712
+      ],
+      [
+        387,
+        1188
+      ]
+    ]
+  }
+}

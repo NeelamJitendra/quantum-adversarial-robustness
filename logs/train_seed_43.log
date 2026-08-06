@@ -1,0 +1,2 @@
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'best_val_loss': 0.6380856037139893, 'test_accuracy': 0.61468200270636, 'test_precision': 0.6260115606936416, 'test_recall': 0.6876190476190476, 'test_f1': 0.6553706505295007, 'checkpoint_path': 'C:\\Work\\Quantum-Adversarial-Robustness\\results\\models\\vqc_seed43.pt'}
