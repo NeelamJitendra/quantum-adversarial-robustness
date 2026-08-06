@@ -1,0 +1,3 @@
+seed,noise_type,level,n_repeats,n_samples,mean_confidence_variance,mean_loss_coefficient_of_variation,mean_loss
+44,depolarizing,L2,10,100,0.00036417460276344846,0.0559466178549968,0.6685173511505127
+44,depolarizing,L4,10,100,0.0004101923074203708,0.056812636707105305,0.6876465082168579

@@ -1,0 +1,178 @@
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0004028460274479964, 'mean_loss_coefficient_of_variation': 0.06111180773929028, 'mean_loss': 0.6565850973129272}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00045373908173894107, 'mean_loss_coefficient_of_variation': 0.06058852041486722, 'mean_loss': 0.6899750232696533}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.000380825729796205, 'mean_loss_coefficient_of_variation': 0.057469143789303116, 'mean_loss': 0.6687497496604919}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00041026686604109236, 'mean_loss_coefficient_of_variation': 0.05699325631095025, 'mean_loss': 0.6916508674621582}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00036417460276344846, 'mean_loss_coefficient_of_variation': 0.0559466178549968, 'mean_loss': 0.6685173511505127}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0004101923074203708, 'mean_loss_coefficient_of_variation': 0.056812636707105305, 'mean_loss': 0.6876465082168579}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00036045121031640944, 'mean_loss_coefficient_of_variation': 0.05672546163366414, 'mean_loss': 0.6453196406364441}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0004071182608507008, 'mean_loss_coefficient_of_variation': 0.05721530958382726, 'mean_loss': 0.6894405484199524}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.000348947165949682, 'mean_loss_coefficient_of_variation': 0.05514542496239174, 'mean_loss': 0.655471682548523}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0003906750933228188, 'mean_loss_coefficient_of_variation': 0.05559676033856679, 'mean_loss': 0.6880407929420471}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00036002802372421604, 'mean_loss_coefficient_of_variation': 0.05691753800634661, 'mean_loss': 0.6523592472076416}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00040955601972946567, 'mean_loss_coefficient_of_variation': 0.05755168248695704, 'mean_loss': 0.6882242560386658}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0002555670484436481, 'mean_loss_coefficient_of_variation': 0.04677364176722183, 'mean_loss': 0.6675398945808411}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.00028736897612806805, 'mean_loss_coefficient_of_variation': 0.0477970907098929, 'mean_loss': 0.6882997751235962}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'depolarizing', 'level': 'L2', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0004667289653340638, 'mean_loss_coefficient_of_variation': 0.0641759302435607, 'mean_loss': 0.6835671663284302}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'depolarizing', 'level': 'L4', 'n_repeats': 10, 'n_samples': 100, 'mean_confidence_variance': 0.0005160712473682966, 'mean_loss_coefficient_of_variation': 0.06444335040443745, 'mean_loss': 0.6915988326072693}
+
+Written to C:\Work\Quantum-Adversarial-Robustness\results\stability_sweep\stability_sweep_all_seeds.csv
