@@ -1,0 +1,234 @@
+=== seed 42 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 18.93282961845398, 'accuracy': 0.6299052774018945, 'precision': 0.6405610753945061, 'recall': 0.6958730158730159, 'f1': 0.6670724284844796}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 27.20473861694336, 'accuracy': 0.6299052774018945, 'precision': 0.6432400238237046, 'recall': 0.6857142857142857, 'f1': 0.6637984019668101}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 26.398512601852417, 'accuracy': 0.628552097428958, 'precision': 0.644808743169399, 'recall': 0.6742857142857143, 'f1': 0.659217877094972}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 26.684489965438843, 'accuracy': 0.6126522327469553, 'precision': 0.6585545722713865, 'recall': 0.566984126984127, 'f1': 0.6093483452746503}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 26.50790309906006, 'accuracy': 0.5348443843031123, 'precision': 0.6210653753026635, 'recall': 0.32571428571428573, 'f1': 0.4273219491878384}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 24.151215314865112, 'accuracy': 0.6295669824086604, 'precision': 0.6416765053128689, 'recall': 0.6901587301587302, 'f1': 0.6650351789538085}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 25.224652528762817, 'accuracy': 0.6305818673883626, 'precision': 0.644871025794841, 'recall': 0.6825396825396826, 'f1': 0.6631708821714991}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 24.2199809551239, 'accuracy': 0.6234776725304465, 'precision': 0.6492248062015504, 'recall': 0.638095238095238, 'f1': 0.643611911623439}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 24.388026475906372, 'accuracy': 0.6129905277401895, 'precision': 0.6576444769568398, 'recall': 0.5707936507936507, 'f1': 0.611148878314072}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 24.42587375640869, 'accuracy': 0.6309201623815968, 'precision': 0.6413551401869159, 'recall': 0.6971428571428572, 'f1': 0.6680864009735321}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 24.534449815750122, 'accuracy': 0.6271989174560216, 'precision': 0.6388725778038755, 'recall': 0.6907936507936508, 'f1': 0.6638194020744357}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 24.31972336769104, 'accuracy': 0.6299052774018945, 'precision': 0.6412213740458015, 'recall': 0.6933333333333334, 'f1': 0.6662599145820622}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.470794916152954, 'accuracy': 0.6302435723951285, 'precision': 0.6448317307692307, 'recall': 0.6812698412698412, 'f1': 0.6625501698054955}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 42, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 31.98958945274353, 'accuracy': 0.6231393775372125, 'precision': 0.6413243408951563, 'recall': 0.6641269841269841, 'f1': 0.6525265127885215}
+=== seed 43 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 20.146433353424072, 'accuracy': 0.6194181326116374, 'precision': 0.629757785467128, 'recall': 0.6933333333333334, 'f1': 0.6600181323662738}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 26.727409601211548, 'accuracy': 0.6194181326116374, 'precision': 0.6318874560375146, 'recall': 0.6844444444444444, 'f1': 0.6571167327034441}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 27.35447406768799, 'accuracy': 0.6190798376184032, 'precision': 0.6348348348348348, 'recall': 0.6711111111111111, 'f1': 0.6524691358024691}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 27.090776920318604, 'accuracy': 0.6025033829499323, 'precision': 0.6587301587301587, 'recall': 0.526984126984127, 'f1': 0.5855379188712522}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 27.890648365020752, 'accuracy': 0.5219891745602165, 'precision': 0.6227272727272727, 'recall': 0.26095238095238094, 'f1': 0.36778523489932885}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 25.378102779388428, 'accuracy': 0.6190798376184032, 'precision': 0.6305991855730075, 'recall': 0.6882539682539682, 'f1': 0.6581663630843959}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 24.605833530426025, 'accuracy': 0.6190798376184032, 'precision': 0.6329188869153345, 'recall': 0.6787301587301587, 'f1': 0.6550245098039216}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 25.212435483932495, 'accuracy': 0.6156968876860622, 'precision': 0.6420711974110033, 'recall': 0.6298412698412699, 'f1': 0.6358974358974359}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 24.947418451309204, 'accuracy': 0.6038565629228687, 'precision': 0.6613418530351438, 'recall': 0.5257142857142857, 'f1': 0.5857799787760877}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 25.081024169921875, 'accuracy': 0.618064952638701, 'precision': 0.6283084004602992, 'recall': 0.6933333333333334, 'f1': 0.6592212496226985}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 25.88739538192749, 'accuracy': 0.6190798376184032, 'precision': 0.6296938186019642, 'recall': 0.692063492063492, 'f1': 0.6594071385359952}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 24.98316788673401, 'accuracy': 0.6173883626522327, 'precision': 0.6298245614035087, 'recall': 0.6838095238095238, 'f1': 0.6557077625570776}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.330615758895874, 'accuracy': 0.6194181326116374, 'precision': 0.6325088339222615, 'recall': 0.6819047619047619, 'f1': 0.6562786434463794}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 43, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 31.933992862701416, 'accuracy': 0.6156968876860622, 'precision': 0.6332726168791742, 'recall': 0.6622222222222223, 'f1': 0.6474239602731223}
+=== seed 44 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 20.274242639541626, 'accuracy': 0.6278755074424899, 'precision': 0.6191670847967887, 'recall': 0.7834920634920635, 'f1': 0.6917040358744395}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 27.445384979248047, 'accuracy': 0.6275372124492558, 'precision': 0.6166338582677166, 'recall': 0.7955555555555556, 'f1': 0.6947601885223177}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 27.69706702232361, 'accuracy': 0.6221244925575101, 'precision': 0.6106280193236715, 'recall': 0.8025396825396826, 'f1': 0.6935528120713306}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 27.527294158935547, 'accuracy': 0.6008119079837618, 'precision': 0.5844377939290295, 'recall': 0.8679365079365079, 'f1': 0.6985181400102197}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 28.3597993850708, 'accuracy': 0.564276048714479, 'precision': 0.5556417215975185, 'recall': 0.9098412698412699, 'f1': 0.6899374097255657}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 24.95617914199829, 'accuracy': 0.6288903924221921, 'precision': 0.618905472636816, 'recall': 0.7898412698412698, 'f1': 0.6940027894002789}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 26.083067893981934, 'accuracy': 0.628552097428958, 'precision': 0.6171990171990172, 'recall': 0.7974603174603174, 'f1': 0.6958448753462604}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 25.02126669883728, 'accuracy': 0.6238159675236806, 'precision': 0.6066328880700138, 'recall': 0.8361904761904762, 'f1': 0.7031500266951415}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 25.19522714614868, 'accuracy': 0.6058863328822733, 'precision': 0.5889756944444444, 'recall': 0.8615873015873016, 'f1': 0.6996648620778552}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 26.093703985214233, 'accuracy': 0.6234776725304465, 'precision': 0.6152694610778443, 'recall': 0.7828571428571428, 'f1': 0.6890192791282481}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 25.14122748374939, 'accuracy': 0.6258457374830853, 'precision': 0.6163771712158809, 'recall': 0.7885714285714286, 'f1': 0.6919220055710307}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 24.965668439865112, 'accuracy': 0.6258457374830853, 'precision': 0.615916955017301, 'recall': 0.7911111111111111, 'f1': 0.6926070038910506}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.40547823905945, 'accuracy': 0.6258457374830853, 'precision': 0.6150073565473271, 'recall': 0.7961904761904762, 'f1': 0.6939679026009962}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 44, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 29.930908679962158, 'accuracy': 0.6224627875507442, 'precision': 0.6096512183468705, 'recall': 0.8101587301587302, 'f1': 0.6957470010905126}
+=== seed 45 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 19.872005224227905, 'accuracy': 0.6255074424898511, 'precision': 0.640119760479042, 'recall': 0.6787301587301587, 'f1': 0.6588597842835131}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 26.103018760681152, 'accuracy': 0.6204330175913396, 'precision': 0.6381940207443563, 'recall': 0.6641269841269841, 'f1': 0.6509023024268824}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 26.50485110282898, 'accuracy': 0.6160351826792964, 'precision': 0.6373283395755306, 'recall': 0.6482539682539683, 'f1': 0.6427447277305635}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 26.353344202041626, 'accuracy': 0.5916779431664412, 'precision': 0.6451104100946372, 'recall': 0.5193650793650794, 'f1': 0.5754484699261344}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 25.827239274978638, 'accuracy': 0.5453315290933695, 'precision': 0.6467598475222364, 'recall': 0.32317460317460317, 'f1': 0.43099068585944117}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 24.198896884918213, 'accuracy': 0.6228010825439784, 'precision': 0.6390568319226119, 'recall': 0.6711111111111111, 'f1': 0.6546918550634871}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 23.825223445892334, 'accuracy': 0.6177266576454669, 'precision': 0.6364193746167995, 'recall': 0.659047619047619, 'f1': 0.6475358702432938}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 28.34517812728882, 'accuracy': 0.6052097428958051, 'precision': 0.6345646437994723, 'recall': 0.6107936507936508, 'f1': 0.6224522808152702}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 28.905582189559937, 'accuracy': 0.5984438430311232, 'precision': 0.6454272863568216, 'recall': 0.5466666666666666, 'f1': 0.5919559986249571}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 26.31864309310913, 'accuracy': 0.6265223274695535, 'precision': 0.6409335727109515, 'recall': 0.68, 'f1': 0.6598890942698706}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 25.836235761642456, 'accuracy': 0.6238159675236806, 'precision': 0.6387058118633913, 'recall': 0.6768253968253968, 'f1': 0.657213316892725}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 25.286869525909424, 'accuracy': 0.6177266576454669, 'precision': 0.6336336336336337, 'recall': 0.6698412698412698, 'f1': 0.6512345679012346}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 25.242838382720947, 'accuracy': 0.61468200270636, 'precision': 0.6327649208282582, 'recall': 0.6596825396825396, 'f1': 0.6459434255517563}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 45, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 32.86821937561035, 'accuracy': 0.6143437077131259, 'precision': 0.6365348399246704, 'recall': 0.6438095238095238, 'f1': 0.6401515151515151}
+=== seed 46 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 19.57819890975952, 'accuracy': 0.61468200270636, 'precision': 0.6212458286985539, 'recall': 0.7092063492063492, 'f1': 0.662318410910169}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 26.63079595565796, 'accuracy': 0.6160351826792964, 'precision': 0.623734533183352, 'recall': 0.7041269841269842, 'f1': 0.6614971667163734}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 26.932758808135986, 'accuracy': 0.61468200270636, 'precision': 0.6245714285714286, 'recall': 0.693968253968254, 'f1': 0.6574436090225564}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 26.226492166519165, 'accuracy': 0.6041948579161028, 'precision': 0.6271186440677966, 'recall': 0.6342857142857142, 'f1': 0.6306818181818182}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 37.24660301208496, 'accuracy': 0.5602165087956699, 'precision': 0.6063418406805878, 'recall': 0.49777777777777776, 'f1': 0.5467224546722455}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 22.893085956573486, 'accuracy': 0.61468200270636, 'precision': 0.6219239373601789, 'recall': 0.706031746031746, 'f1': 0.6613143027059173}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 23.92396068572998, 'accuracy': 0.6140054127198917, 'precision': 0.6223224351747464, 'recall': 0.700952380952381, 'f1': 0.6593012839653628}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 25.304797649383545, 'accuracy': 0.6096075778078485, 'precision': 0.6230274693161894, 'recall': 0.6768253968253968, 'f1': 0.6488131466828971}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 23.576218366622925, 'accuracy': 0.6072395128552097, 'precision': 0.6277777777777778, 'recall': 0.6457142857142857, 'f1': 0.6366197183098592}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 24.02431344985962, 'accuracy': 0.6153585926928281, 'precision': 0.6218020022246941, 'recall': 0.7098412698412698, 'f1': 0.6629113548769642}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 24.00533390045166, 'accuracy': 0.6163734776725305, 'precision': 0.622568093385214, 'recall': 0.7111111111111111, 'f1': 0.6639004149377593}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 24.116750955581665, 'accuracy': 0.6133288227334236, 'precision': 0.6210762331838565, 'recall': 0.7034920634920635, 'f1': 0.6597201548079785}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.480602741241455, 'accuracy': 0.6143437077131259, 'precision': 0.6228119706380576, 'recall': 0.7003174603174603, 'f1': 0.6592946802151823}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 46, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 30.328418016433716, 'accuracy': 0.6177266576454669, 'precision': 0.6275071633237822, 'recall': 0.6952380952380952, 'f1': 0.6596385542168675}
+=== seed 47 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 19.539976119995117, 'accuracy': 0.6288903924221921, 'precision': 0.6264550264550265, 'recall': 0.7517460317460317, 'f1': 0.6834054834054835}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 26.782490015029907, 'accuracy': 0.6278755074424899, 'precision': 0.6253298153034301, 'recall': 0.7523809523809524, 'f1': 0.6829971181556196}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 26.247817993164062, 'accuracy': 0.6288903924221921, 'precision': 0.6259220231822972, 'recall': 0.7542857142857143, 'f1': 0.6841347538151454}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 27.046311140060425, 'accuracy': 0.6207713125845737, 'precision': 0.6202330508474576, 'recall': 0.7434920634920635, 'f1': 0.6762922321686399}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 25.725492477416992, 'accuracy': 0.5686738836265224, 'precision': 0.5877192982456141, 'recall': 0.638095238095238, 'f1': 0.6118721461187214}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 23.932665586471558, 'accuracy': 0.628213802435724, 'precision': 0.6257928118393234, 'recall': 0.7517460317460317, 'f1': 0.6830112489183733}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 24.757874965667725, 'accuracy': 0.628213802435724, 'precision': 0.6252631578947369, 'recall': 0.7542857142857143, 'f1': 0.6837410071942446}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 24.576826095581055, 'accuracy': 0.6336265223274695, 'precision': 0.6286610878661087, 'recall': 0.7631746031746032, 'f1': 0.6894178376828219}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 23.961835861206055, 'accuracy': 0.6224627875507442, 'precision': 0.6225306994127069, 'recall': 0.7403174603174603, 'f1': 0.6763341067285383}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 25.130110025405884, 'accuracy': 0.6275372124492558, 'precision': 0.625, 'recall': 0.7523809523809524, 'f1': 0.682800345721694}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 24.28445816040039, 'accuracy': 0.6295669824086604, 'precision': 0.6263157894736842, 'recall': 0.7555555555555555, 'f1': 0.6848920863309352}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 24.6916925907135, 'accuracy': 0.6275372124492558, 'precision': 0.6251319957761352, 'recall': 0.7517460317460317, 'f1': 0.6826174690112424}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.268592596054077, 'accuracy': 0.6271989174560216, 'precision': 0.6250661025912215, 'recall': 0.7504761904761905, 'f1': 0.6820542412002308}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 47, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 30.632453680038452, 'accuracy': 0.6275372124492558, 'precision': 0.6242138364779874, 'recall': 0.7561904761904762, 'f1': 0.6838931955211025}
+=== seed 48 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 21.057648420333862, 'accuracy': 0.6231393775372125, 'precision': 0.6386049308478653, 'recall': 0.6742857142857143, 'f1': 0.6559604694255713}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 26.427682399749756, 'accuracy': 0.6200947225981055, 'precision': 0.6366384522370012, 'recall': 0.6685714285714286, 'f1': 0.6522143078352431}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 26.890648126602173, 'accuracy': 0.618403247631935, 'precision': 0.6365302382406842, 'recall': 0.6615873015873016, 'f1': 0.6488169364881694}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 26.974056482315063, 'accuracy': 0.5984438430311232, 'precision': 0.628476821192053, 'recall': 0.6025396825396825, 'f1': 0.6152350081037277}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 26.984177112579346, 'accuracy': 0.547361299052774, 'precision': 0.5926505082095387, 'recall': 0.4812698412698413, 'f1': 0.5311843027330063}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 24.574392557144165, 'accuracy': 0.6228010825439784, 'precision': 0.6382211538461539, 'recall': 0.6742857142857143, 'f1': 0.6557579499845632}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 24.299729824066162, 'accuracy': 0.621447902571042, 'precision': 0.6383495145631068, 'recall': 0.6679365079365079, 'f1': 0.652807942910332}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 23.783657789230347, 'accuracy': 0.6102841677943166, 'precision': 0.6319401122894572, 'recall': 0.6431746031746032, 'f1': 0.6375078665827565}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 24.929659366607666, 'accuracy': 0.5984438430311232, 'precision': 0.6283068783068783, 'recall': 0.6031746031746031, 'f1': 0.6154842889536767}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 24.422693490982056, 'accuracy': 0.6241542625169147, 'precision': 0.6389221556886228, 'recall': 0.6774603174603174, 'f1': 0.6576271186440678}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 24.748159646987915, 'accuracy': 0.6238159675236806, 'precision': 0.6382089552238805, 'recall': 0.6787301587301587, 'f1': 0.6578461538461539}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 23.963114023208618, 'accuracy': 0.6221244925575101, 'precision': 0.6366348448687351, 'recall': 0.6774603174603174, 'f1': 0.6564134112580744}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.531575679779053, 'accuracy': 0.6190798376184032, 'precision': 0.634996993385448, 'recall': 0.6704761904761904, 'f1': 0.6522544780728845}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 48, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 30.559406518936157, 'accuracy': 0.6211096075778079, 'precision': 0.6384662203286671, 'recall': 0.6660317460317461, 'f1': 0.6519577377252952}
+=== seed 49 ===
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'none', 'level': 'L0', 'elapsed_s': 19.327489614486694, 'accuracy': 0.6380243572395129, 'precision': 0.6446991404011462, 'recall': 0.7142857142857143, 'f1': 0.677710843373494}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'depolarizing', 'level': 'L1', 'elapsed_s': 26.285099029541016, 'accuracy': 0.6346414073071719, 'precision': 0.6419965576592083, 'recall': 0.7104761904761905, 'f1': 0.674502712477396}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'depolarizing', 'level': 'L2', 'elapsed_s': 27.793615102767944, 'accuracy': 0.6326116373477673, 'precision': 0.6410848240046163, 'recall': 0.7053968253968254, 'f1': 0.6717049576783555}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'depolarizing', 'level': 'L3', 'elapsed_s': 26.663949728012085, 'accuracy': 0.6156968876860622, 'precision': 0.6345800122624157, 'recall': 0.6571428571428571, 'f1': 0.6456643792888335}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'depolarizing', 'level': 'L4', 'elapsed_s': 27.39427161216736, 'accuracy': 0.5632611637347767, 'precision': 0.5997191011235955, 'recall': 0.5422222222222223, 'f1': 0.5695231743914638}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'phase_damping', 'level': 'L1', 'elapsed_s': 23.64861273765564, 'accuracy': 0.6359945872801083, 'precision': 0.6428162564396107, 'recall': 0.713015873015873, 'f1': 0.6760987357013847}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'phase_damping', 'level': 'L2', 'elapsed_s': 25.451584339141846, 'accuracy': 0.6339648173207036, 'precision': 0.6415852958070075, 'recall': 0.7092063492063492, 'f1': 0.6737032569360676}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'phase_damping', 'level': 'L3', 'elapsed_s': 27.071062088012695, 'accuracy': 0.6326116373477673, 'precision': 0.6425655976676384, 'recall': 0.6996825396825397, 'f1': 0.6699088145896657}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'phase_damping', 'level': 'L4', 'elapsed_s': 25.283615589141846, 'accuracy': 0.6244925575101489, 'precision': 0.6409945421467557, 'recall': 0.6711111111111111, 'f1': 0.6557071960297767}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'readout', 'level': 'L1', 'elapsed_s': 24.161393404006958, 'accuracy': 0.6400541271989174, 'precision': 0.6459166190748143, 'recall': 0.7180952380952381, 'f1': 0.6800962116656645}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'readout', 'level': 'L2', 'elapsed_s': 24.332467079162598, 'accuracy': 0.6400541271989174, 'precision': 0.6455840455840456, 'recall': 0.7193650793650793, 'f1': 0.6804804804804805}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'readout', 'level': 'L3', 'elapsed_s': 23.9470157623291, 'accuracy': 0.638700947225981, 'precision': 0.6441159749857874, 'recall': 0.7193650793650793, 'f1': 0.6796640671865627}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'readout', 'level': 'L4', 'elapsed_s': 24.104306936264038, 'accuracy': 0.6380243572395129, 'precision': 0.6428975664968873, 'recall': 0.7212698412698413, 'f1': 0.6798324356672651}
+No gradient function provided, creating a gradient function. If your Estimator requires transpilation, please provide a pass manager.
+{'seed': 49, 'noise_type': 'combined', 'level': 'L2', 'elapsed_s': 30.453803539276123, 'accuracy': 0.6363328822733424, 'precision': 0.6446759259259259, 'recall': 0.7073015873015873, 'f1': 0.6745382985165002}
+
+Written to C:\Work\Quantum-Adversarial-Robustness\results\noise_sweep\noise_sweep_all_seeds.csv
