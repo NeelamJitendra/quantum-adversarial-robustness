@@ -71,7 +71,6 @@ results/         every sweep's output (CSVs, checkpoints, figures);
                  archive/ holds superseded artifacts with a README
 data/            preprocessed MNIST (full and binary/PCA)
 configs/         the experiment configuration used by every sweep
-thesis/          the thesis draft and defense presentation
 ```
 
 ## Notebook sequence
